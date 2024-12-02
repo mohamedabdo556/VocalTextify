@@ -1,0 +1,6 @@
+torch
+torchaudio
+librosa
+fastapi
+uvicorn
+pyyaml
